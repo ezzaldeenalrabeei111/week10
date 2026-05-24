@@ -1,0 +1,6 @@
+@RequestLoggerAPI_HostAddress = http://localhost:5120
+
+GET {{RequestLoggerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
